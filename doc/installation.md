@@ -1,7 +1,7 @@
-## Prerequisite
-
-Curvytron runs on [node.js >= v0.10](https://nodejs.org/).
-You need to install node on the machine that will run the Curvytron server.
+## Prerequisites
+- node
+- bower
+- gulp
 
 ## Installation
 
@@ -13,7 +13,6 @@ __Clone the repository__
 __Install dependencies__
 
     npm install
-    bower install
 
 __Build the game__
 
